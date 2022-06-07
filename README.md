@@ -52,7 +52,7 @@ VOLTE 패치를 원한다면 parasite, EFS 파일 다운로드.
 
 
 
-## Command
+## Commands
 
 [매지스크 설치, 어렵지 않아요](https://cafe.naver.com/grnf/336178)
 
@@ -74,6 +74,8 @@ VOLTE 패치를 원한다면 parasite, EFS 파일 다운로드.
 
 ### If using parasite(VOLTE)
 
+---
+
 `adb push parasite.sh /data/local/tmp/ && adb shell chmod u+x /data/local/tmp/parasite.sh`
 
 `adb shell /data/local/tmp/parasite.sh`
@@ -83,6 +85,8 @@ VOLTE 패치를 원한다면 parasite, EFS 파일 다운로드.
 
 
 #### diag open
+
+----
 
 `adb shell`
 
@@ -95,6 +99,8 @@ VOLTE 패치를 원한다면 parasite, EFS 파일 다운로드.
 
 
 ### Just Magisk only
+
+----
 
 `adb reboot bootloader`
 
