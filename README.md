@@ -74,8 +74,6 @@ VOLTE 패치를 원한다면 parasite, EFS 파일 다운로드.
 
 ### If using parasite(VOLTE)
 
----
-
 `adb push parasite.sh /data/local/tmp/ && adb shell chmod u+x /data/local/tmp/parasite.sh`
 
 `adb shell /data/local/tmp/parasite.sh`
@@ -86,21 +84,17 @@ VOLTE 패치를 원한다면 parasite, EFS 파일 다운로드.
 
 #### diag open
 
-----
-
 `adb shell`
 
 `su -c "setenforce 0; setprop sys.usb.configfs 1 && setprop sys.usb.config diag,serial_cdev,rmnet_gsi,adb"`
 
-**쉘에 루트 권한 부여** 후 EFS Explorer를 이용, 파일 덮어씌우기
+쉘에 루트 권한 부여 후 EFS Explorer를 이용, 파일 덮어씌우기
 
 `adb shell su -c setprop persist.dbg.volte_avail_ovr 1`
 
 
 
 ### Just Magisk only
-
-----
 
 `adb reboot bootloader`
 
