@@ -108,5 +108,5 @@ VOLTE 패치를 원한다면 parasite, EFS 파일 다운로드.
 
 [Safetynet Repository](https://github.com/kdrag0n/safetynet-fix)
 
-[SafetyNet 검사 우회](https://cafe.naver.com/grnf)
+[SafetyNet 검사 우회](https://cafe.naver.com/grnf/340323)
 
