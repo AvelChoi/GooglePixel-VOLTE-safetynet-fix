@@ -17,9 +17,6 @@
 boot.img 추출 후 magisk에서 패치, 다시 fastboot에서 install.
 
 
-
-["bullhead" for Nexus 5X](https://developers.google.com/android/images#bullhead)
-
 ["sargo" for Pixel 3a](https://developers.google.com/android/images#sargo)
 
 ["barbet" for Pixel 5a](https://developers.google.com/android/images#barbet)
@@ -32,9 +29,21 @@ boot.img 추출 후 magisk에서 패치, 다시 fastboot에서 install.
 
 
 
+> adb.exe
+>
+> AdbWinApi.dll
+>
+> AdbWinUsbApi.dll
+>
+> fastboot.exe
+
+
+
 ## Magisk
 
 [Magisk Repository](https://github.com/topjohnwu/Magisk)
+
+Download **Canary** Version
 
 
 
