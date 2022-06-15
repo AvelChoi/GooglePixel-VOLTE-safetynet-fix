@@ -111,11 +111,11 @@ VOLTE 패치를 원한다면 parasite, EFS 파일 다운로드.
 
 **DONE!**
 
-
-
 ## Universal SafetyNet Fix
 
 [Safetynet Repository](https://github.com/kdrag0n/safetynet-fix)
 
 [SafetyNet 검사 우회](https://cafe.naver.com/grnf/340323)
 
+## VOLTEASY
+[Pixel VoLTE + EASY = 픽셀 볼티지 v0.8](https://cafe.naver.com/grnf/344039)
